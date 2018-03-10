@@ -1,2 +1,2 @@
-# Push-Button-Influence-Homework-for-HTML-CSS-week-
+# Push-Button-Influence
 https://argay.github.io/Push-Button-Influence/.
